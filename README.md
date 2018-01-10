@@ -1,6 +1,6 @@
 # paper-presentation
 
-This is my paper presentaion in RUC-BDAI.
+This is my paper presentaion in [RUC-BDAI](http://bdai.ruc.edu.cn).
 
 The beamer theme is JUB.
 
